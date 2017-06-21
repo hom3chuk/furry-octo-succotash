@@ -1,5 +1,7 @@
 # furry-octo-succotash
 
+https://hom3chuk.github.io/furry-octo-succotash/
+
 ## Installation
 ```
 npm --save install
