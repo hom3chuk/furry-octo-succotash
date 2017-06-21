@@ -51,4 +51,4 @@ Actual `critical.css` contents:
   font-family: FontAwesome;
 }
 ```
-Which, when inlined at `index.html`, break fonts URLs (see)
+Which, when inlined at `index.html`, break fonts URLs (see [index-with-critical.html](https://hom3chuk.github.io/furry-octo-succotash/index-with-critical.html)).
